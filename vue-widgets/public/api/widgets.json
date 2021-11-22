@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Widget 1",
+    "date": "June 06, 2001",
+    "description": "Numquam aspernatur aut nam ab"
+  },
+  {
+    "id": 2,
+    "name": "Widget 2",
+    "date": "08/01/2010",
+    "description": "Quidem molestiae facilis voluptatem quos."
+  },
+  {
+    "id": 3,
+    "name": "Widget 3",
+    "date": "09/01/2012",
+    "description": "Distinctio illum dignissimos et velit quia"
+  },
+  {
+    "id": 4,
+    "name": "Widget 4",
+    "date": "10/01/2020",
+    "description": ""
+  }
+]
